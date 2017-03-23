@@ -1,0 +1,22 @@
+{
+  "name": "firebase-qs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "firebase": "firebase"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torufurukawa/firebase-qs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torufurukawa/firebase-qs/issues"
+  },
+  "homepage": "https://github.com/torufurukawa/firebase-qs#readme",
+  "devDependencies": {
+    "firebase-tools": "^3.5.0"
+  }
+}
